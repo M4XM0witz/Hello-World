@@ -2,7 +2,7 @@
 
 
 ```python
-def add( )
+def add():
 ```
 
 [] assign the issue
