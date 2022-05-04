@@ -20,4 +20,5 @@ def add(a, b):
 - [ ] add subtraktion to calculator
 - [ ] add multiply to calculator
 - [ ] add modulus to calculator
-- [ ] 
+
+
